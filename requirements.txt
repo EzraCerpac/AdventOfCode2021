@@ -1,0 +1,8 @@
+-e support
+pytest~=7.1.1
+z3-solver
+
+argparse~=1.4.0
+support~=0.0.0
+setuptools~=57.0.0
+numpy==1.22.3
